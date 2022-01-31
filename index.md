@@ -6,11 +6,11 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Github"
+    - label: "<i class='fas fa-link'></i> Github"
       url: "https://github.com/R-HTA-in-LMICs"
 excerpt: >
   Increasing accessibility to R for HTA in LMICs.<br />
-  <small><a </a></small>
+  <small><a href=""> </a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"

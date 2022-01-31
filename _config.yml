@@ -13,10 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: R-HTA in LMICs
+title: "R-HTA in LMICs"
+subtitle: "A chapter of the R-HTA consortium"
+name: "R-HTA in LMICs"
 email: info@r-htalmics.org
-description: >- # this means to ignore newlines until "baseurl:"
-  Increasing accessibility to R for HTA in LMICs
+description: "Increasing accessibility to R for HTA in LMICs"
+teaser: "/assets/images/avatar.png"
+logo: "/assets/images/avatar.png"
 twitter_username: rhta_lmics
 github_username: R-HTA-in-LMICs
 minimal_mistakes_skin: default
@@ -69,17 +72,6 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"

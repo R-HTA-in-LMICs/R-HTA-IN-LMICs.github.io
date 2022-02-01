@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_filter: linear-gradient(90deg, rgba(33,41,140,1) 0%, rgba(55,101,185,1) 15%, rgba(55,101,185,1) 28%, rgba(255,255,255,1) 100%))
+  overlay_color: "#3765b9"
   overlay_image:
   actions:
     - label: "<i class='fas fa-link'></i> Github"

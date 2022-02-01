@@ -3,14 +3,16 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_color: "#1B3DD3"
+  overlay_image:
   actions:
     - label: "<i class='fas fa-link'></i> Github"
       url: "https://github.com/R-HTA-in-LMICs"
 excerpt: >
   Increasing accessibility to R for HTA in LMICs <br />
   <small><a href=""> </a></small>
+intro:
+ - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: /assets/images/registration_open.png
     alt: "customizable"

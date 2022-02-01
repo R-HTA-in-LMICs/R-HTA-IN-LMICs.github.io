@@ -8,7 +8,6 @@ toc: true
 toc_label: "Resources"
 toc_icon: "chalkboard-teacher"
 ---
-# Self-Learning Resources
 ## R Programming
 
 ### Basic
@@ -28,4 +27,4 @@ toc_icon: "chalkboard-teacher"
 # Online Videos
 
 ## R-HTA Workshops
-{% include video id="FiWrOK4CFlE&t=1s" provider="youtube" %}
+{% include video id="FiWrOK4CFlE" provider="youtube" %}

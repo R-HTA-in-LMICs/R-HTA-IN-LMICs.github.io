@@ -14,7 +14,7 @@ feature_row_right:
  - image_path: /assets/images/bNdweni.png
    title: "Buhle Ndweni"
    excerpt: "Co-Chair, MSc"
-   url: https://onlinestore.ucl.ac.uk/conferences-and-events/faculty-of-mathematical-physical-sciences-c06/department-of-statistical-science-f61/f61-workshop-r-for-health-technology-assessment-in-lmics
+   url:
    btn_label: "Info"
    btn_class: "btn--primary"
 ---

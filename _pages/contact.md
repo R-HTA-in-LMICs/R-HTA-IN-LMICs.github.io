@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 permalink: /contact/
-layout: wide
+layout: single
 author_profile: false
 logo: /assets/images/avatar.png
 ---

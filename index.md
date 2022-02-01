@@ -12,7 +12,7 @@ excerpt: >
   We aim to introduce and showcase the strengths of R programming to Health Technology Assessment analysts and health institutions in LMICs.<br />
   <small><a href=""> </a></small>
 intro:
- - excerpt: 'By hosting presentation- and tutorial-focused R workshops, the [R-HTA](https://r-hta.org/) LMIC chapter aims to bridge the gap in the use of R software among HTA analysts in LMICs. In introductory, tutorial workshops, participants are introduced to the basics of R and several open-source HTA R packages; more advanced topics include developing R-HTA models in interactive formats, using Shiny (click here for details). See our events page for more details or, alternatively, contact <training@r-htalmics.org>.'
+ - excerpt: 'The LMIC chapter aims to bridge the gap in the use of R software among HTA analysts in LMICs. In introductory, tutorial workshops, participants are introduced to the basics of R and several open-source HTA R packages; more advanced topics include developing R-HTA models in interactive formats, using Shiny (click here for details). See our events page for more details or, alternatively, contact <training@r-htalmics.org>.'
 feature_row_left:
  - image_path: /assets/images/abstracts.png
    title: "Call for Abstracts"
@@ -29,7 +29,7 @@ feature_row_right:
    btn_class: "btn--primary"
 feature_row_left_2:
  - image_path: /assets/images/panel.png
-   title: "R in LMICs: potential?"
+   title: "R in LMICs: is there potential?"
    excerpt: "Join our panel discussion on the 23rd February for a discussion on the possible pros and cons of R in LMICs. Gain valuable insight from our HTA experts, such as Prof [Gianluca Baio](), Dr [Howard Thom](), Dr [Fernando Escudero](), and Dr [Lucy Cunamma](), who will discuss the potential advantages and pitfuls of using R in LMIC contexts."
    url: /events/
    btn_label: "Read More"

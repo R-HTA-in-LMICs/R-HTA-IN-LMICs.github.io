@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-layout: wide
+layout: single
 author_profile: false
 logo: /assets/images/avatar.png
 ---

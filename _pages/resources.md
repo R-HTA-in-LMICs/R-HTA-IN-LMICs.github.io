@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 permalink: /resources/
-layout: wide
+layout: single
 author_profile: false
 logo: /assets/images/avatar.png
 ---

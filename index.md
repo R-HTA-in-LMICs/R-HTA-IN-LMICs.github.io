@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#216EFF"
+  overlay_color: "#3765b9"
   overlay_image:
   actions:
     - label: "<i class='fas fa-link'></i> Github"

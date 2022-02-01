@@ -6,10 +6,16 @@ author_profile: false
 logo: /assets/images/avatar.png
 feature_row_left:
  - image_path: /assets/images/jSoboil.png
-   title: "Call for Abstracts"
-   excerpt: "Present at the inaugral 2022 workshop"
-   url: https://forms.gle/ASXaT7Wpbc5GmqZP6
-   btn_label: "Submit here"
+   title: "Joshua Soboil"
+   excerpt: "Co-Chair, MPH"
+   btn_label: "Info"
+   btn_class: "btn--primary"
+feature_row_right:
+ - image_path: /assets/images/bNdweni.png
+   title: "Buhle Ndweni"
+   excerpt: "Co-Chair, MSc"
+   url: https://onlinestore.ucl.ac.uk/conferences-and-events/faculty-of-mathematical-physical-sciences-c06/department-of-statistical-science-f61/f61-workshop-r-for-health-technology-assessment-in-lmics
+   btn_label: "Info"
    btn_class: "btn--primary"
 ---
 {% include feature_row id="intro" type="center" %}

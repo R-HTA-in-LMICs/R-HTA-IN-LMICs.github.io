@@ -3,6 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
+  overlay_filter: linear-gradient(90deg, rgba(33,41,140,1) 0%, rgba(55,101,185,1) 15%, rgba(55,101,185,1) 28%, rgba(255,255,255,1) 100%))
   overlay_color: "#3765b9"
   overlay_image:
   actions:
@@ -29,7 +30,7 @@ feature_row_right:
    btn_class: "btn--primary"
 feature_row_left_2:
  - image_path: /assets/images/panel.png
-   title: "R in LMICs: is there potential?"
+   title: "R in LMICs: what's the potential?"
    excerpt: "Join our panel discussion on the 23rd February for a discussion on the possible pros and cons of R in LMICs. Gain valuable insight from our HTA experts, [Prof Gianluca Baio](https://r-hta.org/authors/gianluca-baio/), [Dr Howard Thom](https://r-hta.org/authors/howard-thom/), [Dr Fernando Escudero](https://r-hta.org/authors/fernando-alarid-escudero/), and [Dr Lucy Cunamma](https://southafrica.inspiringfifty.org/lucy-cunnama), who will discuss the potential advantages and pitfuls of using R in LMIC contexts."
    url: /events/
    btn_label: "Read More"

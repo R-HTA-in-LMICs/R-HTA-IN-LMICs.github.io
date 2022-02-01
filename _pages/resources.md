@@ -24,7 +24,6 @@ toc_icon: "chalkboard-teacher"
 
 ### Advanced
 
-# Online Videos
 
 ## R-HTA Workshops
 {% include video id="FiWrOK4CFlE" provider="youtube" %}

@@ -1,0 +1,28 @@
+# /_data/authors.yml
+
+Joshua Soboil:
+  name        : "Joshua Soboil"
+  bio         : "MPH, Health Economics"
+  avatar      : "/assets/images/jSoboil.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:joshua@soboils.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://jsoboil.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ama_loop"
+
+Buhle Ndweni:
+  name        : "Buhle Ndweni"
+  bio         : "MSc Health Economics and Decision Modelling"
+  avatar      : "/assets/images/bNdweni.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@r-htalmics.org"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/HealthEconomizt"

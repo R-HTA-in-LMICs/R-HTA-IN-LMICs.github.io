@@ -10,7 +10,7 @@ logo: /assets/images/avatar.png
 - Host [presentations](https://r-hta.org/#talk) and [public discussions](https://www.youtube.com/channel/UCUog4U8cjXuQIvINSDsiEJQ) to facilitate the development of R for HTA ‘R-HTA in LMICs’ is the LMIC-focused chapter of this consortium that aims to introduce and showcase the strengths of R specifically to LMIC analysts and health care institutions
 
 # R-HTA in LMICs
-The R for HTA in LMICs chapter is the LMIC-focused chapter of R-HTA consortium that aims to introduce and showcase the strengths of R specifically to LMIC analysts and health care institutions.
+The R for HTA in LMICs chapter is the LMIC-focused chapter of the R-HTA consortium, aiming to introduce and showcase the strengths of R specifically to LMIC analysts and health care institutions.
 
 # Why an LMIC chapter?
 Microsoft Excel and other software such as TreeAge remain popular software for HTA modelling, especially in LMICs.

@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-link'></i> Github"
       url: "https://github.com/R-HTA-in-LMICs"
 excerpt: >
-  We aim to introduce and showcase the strengths of R programming to #HTA analysts and health institutions in LMICs.<br />
+  We aim to introduce and showcase the strengths of R programming to Health Technology Assessment analysts and health institutions in LMICs.<br />
   <small><a href=""> </a></small>
 intro:
  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'

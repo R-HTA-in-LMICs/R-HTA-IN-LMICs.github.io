@@ -9,14 +9,14 @@ header:
     - label: "<i class='fas fa-link'></i> Github"
       url: "https://github.com/R-HTA-in-LMICs"
 excerpt: >
-  Increasing accessibility to R for HTA in LMICs.<br />
+  Increasing accessibility to R for HTA in LMICs <br />
   <small><a href=""> </a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/registration_open.png
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "Tickets! Tickets!"
+    excerpt: "Registration is now open for the inaugral 2022 workshop."
+    url: "/events/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png

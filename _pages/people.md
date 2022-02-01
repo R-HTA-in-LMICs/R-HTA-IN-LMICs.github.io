@@ -39,7 +39,8 @@ feature_row_left_2:
    btn_label: "Bio"
    btn_class: "btn--primary"
 ---
-{% include feature_row %}
-{% include feature_row id="feature_row_left" type="left" %}
-{% include feature_row id="feature_row_right" type="right" %}
-{% include feature_row id="feature_row_left_2" type="left" %}
+# Our Team
+{% include feature_row width="200" height="200" %}
+{% include feature_row id="feature_row_left" type="left" width="200" height="200" %}
+{% include feature_row id="feature_row_right" type="right" width="200" height="200" %}
+{% include feature_row id="feature_row_left_2" type="left" width="200" height="200" %}

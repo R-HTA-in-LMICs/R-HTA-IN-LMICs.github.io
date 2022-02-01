@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-layout: single
+layout: wide
 logo: /assets/images/avatar.png
 ---
 

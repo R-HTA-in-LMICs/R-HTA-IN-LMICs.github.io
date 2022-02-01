@@ -1,6 +1,6 @@
 ---
 title: "Events"
-layout: single
 permalink: /events/
+layout: wide
 author_profile: false
 ---

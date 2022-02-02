@@ -12,7 +12,7 @@ excerpt: >
   Aiming to introduce and showcase the strengths of R programming to Health Technology Assessment analysts and health institutions in LMICs.<br />
   <small><a href=""> </a></small>
 intro:
- - excerpt: 'The chapter aims to bridge the gap in the use of R software among HTA analysts in LMICs. Annually, the chapter hosts workshops where LMIC university students and members of partnership organisations are encourged to present and engage R related health economics work. See events page for more details.'
+ - excerpt: 'The chapter aims to bridge the gap in the use of R software among HTA analysts in LMICs by hosting annual workshops where LMIC university students and members of partnership organisations are encouraged to present and engage R related punlic health analysis. See events page for more details.'
 feature_row_left:
  - image_path: /assets/images/abstracts.png
    title: "Call for Abstracts"

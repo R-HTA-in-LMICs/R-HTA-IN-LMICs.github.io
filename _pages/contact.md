@@ -5,8 +5,7 @@ layout: single
 author_profile: false
 logo: /assets/images/avatar.png
 ---
-For general enquiries, please contact Buhle:
-- <info@r-htalmics.org>
-
-For workshop related enquiries, please contact Joshua:
-- <training@r-htalmics.org>
+<br>
+- For general enquiries, please contact <info@r-htalmics.org>
+<br>
+- For workshop related enquiries, please contact <training@r-htalmics.org>

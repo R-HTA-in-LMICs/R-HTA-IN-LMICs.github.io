@@ -5,7 +5,8 @@ layout: single
 author_profile: false
 logo: /assets/images/avatar.png
 ---
+For general enquiries:
+- <info@r-htalmics.org>
 <br>
-- For general enquiries, please contact <info@r-htalmics.org>
-<br>
-- For workshop related enquiries, please contact <training@r-htalmics.org>
+For workshop related enquiries:
+- <training@r-htalmics.org>

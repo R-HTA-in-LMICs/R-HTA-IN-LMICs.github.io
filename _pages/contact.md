@@ -7,6 +7,8 @@ logo: /assets/images/avatar.png
 ---
 For general enquiries:
 - <info@r-htalmics.org>
-<br>
+
+---
 For workshop related enquiries:
 - <training@r-htalmics.org>
+---

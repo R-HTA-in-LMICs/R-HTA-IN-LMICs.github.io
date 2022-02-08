@@ -8,6 +8,8 @@ toc: true
 toc_label: "Resources"
 toc_icon: "chalkboard-teacher"
 ---
+Note: this page is currently under construction. Please be patient while our team works on it!
+
 ## R Programming
 
 ### Basic

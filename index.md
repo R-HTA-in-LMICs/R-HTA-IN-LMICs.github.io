@@ -30,7 +30,7 @@ feature_row_right:
 feature_row_left_2:
  - image_path: /assets/images/panel.png
    title: "R in LMICs: what's the potential?"
-   excerpt: "Join our panel discussion on the 23rd February for a discussion on the possible pros and cons of R in LMICs. Gain valuable insight from our HTA experts, [Prof Gianluca Baio](https://r-hta.org/authors/gianluca-baio/), [Dr Howard Thom](https://r-hta.org/authors/howard-thom/), [Dr Fernando Escudero](https://r-hta.org/authors/fernando-alarid-escudero/), and [Dr Lucy Cunamma](https://southafrica.inspiringfifty.org/lucy-cunnama), who will discuss the potential advantages and pitfuls of using R in LMIC contexts."
+   excerpt: "Join our panel discussion on the 23rd February and gain valuable insight from our HTA experts, [Prof Gianluca Baio](https://r-hta.org/authors/gianluca-baio/), [Dr Howard Thom](https://r-hta.org/authors/howard-thom/), [Dr Fernando Escudero](https://r-hta.org/authors/fernando-alarid-escudero/), and [Dr Lucy Cunamma](https://southafrica.inspiringfifty.org/lucy-cunnama), debating the potential advantages and pitfalls of R in LMIC contexts."
    url: /events/
    btn_label: "Read More"
    btn_class: "btn--primary"

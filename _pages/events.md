@@ -17,29 +17,26 @@ The annual first quarter workshop invites analysts to present their R-related he
 ### February 2022 Programme
 Below is the programme for the inaugural 2022 first-quarter workshop.
 
-<details>
-<summary>Click here for details</summary>
-
-###Introduction
+#### Introduction
 **Presenters:** Co-chairs of the R-HTA in LMICs chapter
 <p>
 An introduction to the inaugral R-HTA in LMICs workshop. The co-chairs discuss the motivations behind the chapter and introduce the team.
 </p>
 
-### Getting Started with Github and R
+#### Getting Started with Github and R
 **Presenter:** [Joshua Soboil](https://jsoboil.github.io/)
 <p>
 A brief overview and tutorial on using Github with R and Rstudio.
 </p>
 
-### BCEA: making decision modelling in R more user-friendly
+#### BCEA: making decision modelling in R more user-friendly
 **Presenter:** [Dr Nathan Green](https://www.ucl.ac.uk/statistics/dr-nathan-green)
 <p>
 An introduction to the BCEA package and a presentation on how it enables more user-friendly health economic decision modelling in R.
 </p>
 - Explore the package on [CRAN](https://cran.r-project.org/web/packages/BCEA/index.html)
 
-### The Potential of R Shiny User Interfaces to Support Health Economic Decision Making
+#### The Potential of R Shiny User Interfaces to Support Health Economic Decision Making
 **Presenters:** [Rose Hart](https://www.bresmed.com/team/rose-hart/) and [Robert Smith](https://www.sheffield.ac.uk/scharr/people/pgr-students/robert-smith)
 <p>
 Health economic evaluation models have traditionally been built in Microsoft Excel, but more sophisticated tools are increasingly being used as model complexity and computational requirements increase. Of all the programming languages, R is most popular amongst health economists because it has a plethora of user created packages and is highly flexible. However, even with an integrated development environment such as R Studio, R lacks a simple point and click user interface and therefore requires some programming ability. This might make the switch from Microsoft Excel to R seem daunting, and it might make it difficult to directly communicate results with decisions makers and other stakeholders.
@@ -49,35 +46,35 @@ The R package Shiny has the potential to resolve this limitation. It allows prog
 </p>
 - Explore the open source code on [Github](https://github.com/r-hta/R-Shiny-for-HTA)
 
-### Economic Burden of Female Genital Mutilation in 27 High-Prevalence Countries: a series of national cohort models in R and a web app in Shiny
+#### Economic Burden of Female Genital Mutilation in 27 High-Prevalence Countries: a series of national cohort models in R and a web app in Shiny
 **Presenter:** [David Tordup](http://www.davidtordrup.dk/)
 <p>
 An overview of a model on FGM commissioned by the World Health Organization, in collaboration with Triangulate Health Ltd, presented in an interactive format using Shiny.
 </p>
 Read more on the study in [BMJ Global Health](https://gh.bmj.com/content/7/2/e004512)
 
-### The Cost-Effectiveness of COVID Vaccines: a Shiny presentation
+#### The Cost-Effectiveness of COVID Vaccines: a Shiny presentation
 **Presenter:** [Dr Alejandro Lopez Osornio](https://www.himss.org/speaker-alejandro-lopez-osornio)
 <p>
 A an interactive presentation on the health impact and cost-effectiveness of COVID-19 vaccines for 26 Latin American counties, using Shiny.
 </p>
 The code for this model is not open-source
 
-### Budget Impact Analysis: a Shiny based calculator
+#### Budget Impact Analysis: a Shiny based calculator
 **Presenter:** [Dr Federico Cairoli](https://www.iecs.org.ar/evaluacion-de-tecnologias-sanitarias-y-economia-de-la-salud/equipo-de-trabajo/)
 <p>
 A Budget Impact Analysis presentation focusing Shiny and its ability to provide decision makers with an interactive model format.
 </p>
 The code for this model is not open-source
 
-Modelling COVID in R: an experience in using R over Excel for SIR modelling
+#### Modelling COVID in R: an experience in using R over Excel for SIR modelling
 **Presenter:** [Dr Ivan Zimmerman](https://www.linkedin.com/in/ivan-zimmermann-57392852/)
 <p>
 A presentation on the experience of moving from Excel to R for SIR modelling. The presentation discusses why modelling an SIR model in Excel takes considerable time and has a high probability of error, due to cell replication. In comparison, using R is much simpler and less prone to error.
 </p>
 The code for this model is not open-source
 
-### A Simplified Model of the Cost-Effectiveness of Screening: an open-source teaching and research tool coded in R
+#### A Simplified Model of the Cost-Effectiveness of Screening: an open-source teaching and research tool coded in R
 **Presenter:** [Yi-Shu Lin](https://www.tcd.ie/medicine/health_policy_management/staff/)
 <p>
 Models applied in cost-effectiveness analyses of screening are typically designed to address specific policy questions and consequently tend to be large and complex. They are not well suited to teaching the fundamentals of screening modelling or to demonstrating novel modelling methods.
@@ -87,14 +84,14 @@ The presentations thus describes a lightweight, fully shareable and transparent 
 </p>
 The source code for this model will be shared once the author has given permission
 
-### A Need for Change! A Coding Framework for Improving Transparency in Decision Modelling
+#### A Need for Change! A Coding Framework for Improving Transparency in Decision Modelling
 **Presenter:** [Dr Fernando Escudero](https://r-hta.org/authors/fernando-alarid-escudero/)
 <p>
 The use of open-source programming languages, such as R, in health decision sciences is growing and has the potential to facilitate model transparency, reproducibility, and shareability. However, realizing this potential can be challenging. Models are complex and primarily built to answer a research question, with model sharing and transparency relegated to being secondary goals. Consequently, code is often neither well documented nor systematically organized in a comprehensible and shareable approach. Moreover, many decision modelers are not formally trained in computer programming and may lack good coding practices, further compounding the problem of model transparency. To address these challenges, the presentation provides an overview of a high-level framework for model-based decision and cost-effectiveness analyses (CEA) in R.
 </p>
 Read the open-access article in [Springer](https://link.springer.com/article/10.1007/s40273-019-00837-x)
 
-### Panel discussion: are the features of modern software tools ( R ) also useful for HTA modeling  in LMICs?
+#### Panel discussion: are the features of modern software tools ( R ) also useful for HTA modeling  in LMICs?
 <p>
 **Panelists:** [Assistant Prof Fernando Alarid-Escudero](https://r-hta.org/authors/fernando-alarid-escudero/), [Prof Gianluca Biao](https://www.ucl.ac.uk/statistics/people/gianlucabaio), [Dr Lucy Cunnama](https://southafrica.inspiringfifty.org/lucy-cunnama), and [Dr Howard Thom](https://www.bristol.ac.uk/people/person/Howard-Thom-7d5ace0c-a4eb-4fa0-8c0b-37dc141c0e9f/)
 </p>

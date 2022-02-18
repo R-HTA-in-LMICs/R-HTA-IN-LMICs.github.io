@@ -15,7 +15,8 @@ Note that the date, time, and theme of each workshop will be provided closer to 
 ## February 2022
 The annual first quarter workshop invites analysts to present their R-related health economics work. Speakers from academia, government, industry, and consulting will give demonstrations of R code solving specific challenges in HTA, each covering a wide range of topics relevant to HTA in LMICs.
 
-**Note:** we offer a limited number of fee waivers for LMIC analysts. Contact Joshua via email at <training@r-htalmics.org>, with an attached letter of motivation.{: .notice--info}
+**Note:** we offer a limited number of fee waivers for LMIC analysts. Contact Joshua via email at <training@r-htalmics.org>, with an attached letter of motivation.
+{: .notice--info}
 
 ### February 2022 Programme
 Below is the programme for the inaugural 2022 first-quarter workshop.

@@ -5,8 +5,7 @@ layout: single
 author_profile: false
 logo: /assets/images/avatar.png
 ---
-<p>
 **For general enquiries:** <info@r-htalmics.org>
+<br>
 **For workshop enquiries:** <training@r-htalmics.org>
-</p>
 {: .notice--primary}

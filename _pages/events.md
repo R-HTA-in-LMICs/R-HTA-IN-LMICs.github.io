@@ -22,7 +22,7 @@ Below is the programme for the inaugural 2022 first-quarter workshop.
 #### Introduction
 **Presenters:** Co-chairs of the R-HTA in LMICs chapter
 <p>
-An introduction to the inaugral R-HTA in LMICs workshop. The co-chairs discuss the motivations behind the chapter and introduce the team.
+An introduction to the inaugural R-HTA in LMICs workshop. The co-chairs discuss the motivations behind the chapter and introduce the team.
 </p>
 
 #### Getting Started with Github and R

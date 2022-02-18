@@ -9,10 +9,12 @@ toc_icon: "calendar-alt"
 ---
 In the first quarter of every year, the chapter hosts a presentation-based workshop where LMIC university students and members of partnership organisations present their R related health economics work. In every subsequent quarter, the chapter hosts introductory, intermediate, and advanced decision modelling workshops applied within an LMIC context.
 
-Note that the date, time, and theme of each workshop will be provided closer to each respective event.
+Note that the date, time, and theme of each workshop will be provided closer to each event.
 
 ## February 2022
-The annual first quarter workshop invites analysts to present their R-related health economics work. Speakers from academia, government, industry, and consulting will give demonstrations of their R code solving specific challenges in HTA, covering a wide range of topics relevant to HTA in LMICs. You can find the programme and other details below.
+The annual first quarter workshop invites analysts to present their R-related health economics work. Speakers from academia, government, industry, and consulting will give demonstrations of R code solving specific challenges in HTA, each covering a wide range of topics relevant to HTA in LMICs.
+
+Note that we offer a limited number of fee waivers for LMIC analysts. Contact Joshua via email at <training@r-htalmics.org>, with an attached letter of motivation.
 
 ### February 2022 Programme
 Below is the programme for the inaugural 2022 first-quarter workshop.
@@ -93,7 +95,7 @@ Read the open-access article in [Springer](https://link.springer.com/article/10.
 
 #### Panel discussion: are the features of modern software tools ( R ) also useful for HTA modeling  in LMICs?
 **Panelists:** [Assistant Prof Fernando Alarid-Escudero](https://r-hta.org/authors/fernando-alarid-escudero/), [Prof Gianluca Biao](https://www.ucl.ac.uk/statistics/people/gianlucabaio), [Dr Lucy Cunnama](https://southafrica.inspiringfifty.org/lucy-cunnama), and [Dr Howard Thom](https://www.bristol.ac.uk/people/person/Howard-Thom-7d5ace0c-a4eb-4fa0-8c0b-37dc141c0e9f/)
-<hr size="4">
+
 **Moderator:** [Buhle Ndweni](https://za.linkedin.com/in/buhle-n-04a5661a)
 <p>
 The panel discussion centers on the potential strengths and weaknesses of R for HTA in LMICs across four domains: clinical realism, quantifying decision uncertainty, transparency/reproducibility, and reusability/adaptability.
@@ -103,8 +105,6 @@ The panel discussion centers on the potential strengths and weaknesses of R for 
 - Date: 23rd February
 - Time: 13:00-18:30 CAT
 - Tickets: purchase [here](https://onlinestore.ucl.ac.uk/conferences-and-events/faculty-of-mathematical-physical-sciences-c06/department-of-statistical-science-f61/f61-workshop-r-for-health-technology-assessment-in-lmics).
-
-Note that we offer a limited number of fee waivers for LMIC analysts. Contact Joshua via email at <training@r-htalmics.org>, with an attached letter of motivation.
 
 ## June 2022
 Details to be provided.

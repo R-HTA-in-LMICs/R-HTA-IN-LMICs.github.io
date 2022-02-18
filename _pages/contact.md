@@ -8,4 +8,3 @@ logo: /assets/images/avatar.png
 **For general enquiries:** <info@r-htalmics.org>
 <br>
 **For workshop enquiries:** <training@r-htalmics.org>
-{: .notice--primary}

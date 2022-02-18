@@ -92,16 +92,12 @@ The use of open-source programming languages, such as R, in health decision scie
 Read the open-access article in [Springer](https://link.springer.com/article/10.1007/s40273-019-00837-x)
 
 #### Panel discussion: are the features of modern software tools ( R ) also useful for HTA modeling  in LMICs?
-<p>
 **Panelists:** [Assistant Prof Fernando Alarid-Escudero](https://r-hta.org/authors/fernando-alarid-escudero/), [Prof Gianluca Biao](https://www.ucl.ac.uk/statistics/people/gianlucabaio), [Dr Lucy Cunnama](https://southafrica.inspiringfifty.org/lucy-cunnama), and [Dr Howard Thom](https://www.bristol.ac.uk/people/person/Howard-Thom-7d5ace0c-a4eb-4fa0-8c0b-37dc141c0e9f/)
-</p>
-<p>
-Moderator: [Buhle Ndweni](https://za.linkedin.com/in/buhle-n-04a5661a)
-</p>
+<hr size="4">
+**Moderator:** [Buhle Ndweni](https://za.linkedin.com/in/buhle-n-04a5661a)
 <p>
 The panel discussion centers on the potential strengths and weaknesses of R for HTA in LMICs across four domains: clinical realism, quantifying decision uncertainty, transparency/reproducibility, and reusability/adaptability.
 </p>
-</details>
 
 ### Schedule and tickets
 - Date: 23rd February

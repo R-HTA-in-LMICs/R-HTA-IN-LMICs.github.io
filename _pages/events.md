@@ -11,32 +11,33 @@ In the first quarter of every year, the chapter hosts a presentation-based works
 
 Note that the date, time, and theme of each workshop will be provided closer to each respective event.
 
-## February 2022 workshop
+## February 2022
 The annual first quarter workshop invites analysts to present their R-related health economics work. Speakers from academia, government, industry, and consulting will give demonstrations of their R code solving specific challenges in HTA, covering a wide range of topics relevant to HTA in LMICs. You can find the programme and other details below.
 
-### Programme
-<h2 id = 'Titles'>Introduction</h2>
-<body>
-<b>Presenters: Co-chairs of R-HTA in LMICs</b>
+### February 2022 Programme
+The following is the finalised programme for the inaugral 2022 workshop.
+
+#### Introduction
+**Presenters:** Co-chairs of R-HTA in LMICs
 <p>
 An introduction to the inaugral R-HTA in LMICs workshop. The co-chairs discuss the motivations behind the chapter and introduce the team.
 </p>
-<h2 id = 'Titles'>Getting Started with Github and R</h2>
-<body>
-<b>Presenter: <a href = "https://jsoboil.github.io/">Joshua Soboil<a/></b>
+
+#### Getting Started with Github and R
+**Presenter:** [Joshua Soboil](https://jsoboil.github.io/)
 <p>
 A brief overview and tutorial on using Github with R and Rstudio.
 </p>
-</body>
-<h2 id = 'Titles'>BCEA: making decision modelling in R more user-friendly</h2>
-<body>
-<b>Presenter: <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Dr Nathan Green<a/></b>
+
+#### BCEA: making decision modelling in R more user-friendly</h2>
+**Presenter:** [Dr Nathan Green](https://www.ucl.ac.uk/statistics/dr-nathan-green)
 <p>
 An introduction to the BCEA package and how it enables more user-friendly health economic decision modelling in R.
 </p>
-<a href = "https://cran.r-project.org/web/packages/BCEA/index.html">CRAN link<a/>
-</body>
-<h2 id = 'Titles'>The Potential of R Shiny User Interfaces to Support Health Economic Decision Making</h2>
+- Read about the package on [CRAN](https://cran.r-project.org/web/packages/BCEA/index.html)
+
+#### The Potential of R Shiny User Interfaces to Support Health Economic Decision Making
+
 <body>
 <b>Presenters: <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Rose Hart<a/> and <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Robert Smith<a/></b>
 <p>
@@ -118,21 +119,21 @@ The panel discussesion centers on the potential strengths and weaknesses of R fo
 
 Note that we offer a limited number of fee waivers for LMIC analysts. Contact Joshua via email at <training@r-htalmics.org>, with an attached letter of motivation.
 
-## June 2022 workshop
+## June 2022
 Details to be provided.
 
 ### Schedule and tickets
 - Date: TBA
 - Time: TBA
 
-## August 2022 workshop
+## August 2022
 Details to be provided.
 
 ### Schedule and tickets
 - Date: TBA
 - Time: TBA
 
-## Novemeber 2022 workshop
+## Novemeber 2022
 Details to be provided.
 
 ### Schedule and tickets

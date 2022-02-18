@@ -17,7 +17,7 @@ The annual first quarter workshop invites analysts to present their R-related he
 ### February 2022 Programme
 The following is the finalised programme for the inaugral 2022 workshop.
 
-details>
+<details>
 <summary>Click here for more details</summary>
 
 <h1 id = 'first'>Programme </h1>

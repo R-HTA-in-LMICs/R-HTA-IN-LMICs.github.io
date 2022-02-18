@@ -23,21 +23,20 @@ The following is the finalised programme for the inaugral 2022 workshop.
 <h1 id = 'first'>Programme </h1>
 <h2 id = 'Titles'>Introduction</h2>
 <body>
-<b>Presenters: Co-chairs of R-HTA in LMICs</b>
+<b>Presenters: Co-chairs of R-HTA in LMICs </b>
 <p>
 An introduction to the inaugral R-HTA in LMICs workshop. The co-chairs discuss the motivations behind the chapter and introduce the team.
 </p>
 <h2 id = 'Titles'>Getting Started with Github and R</h2>
-<b>Presenter: <a href="https://jsoboil.github.io/">Joshua Soboil<a/>
-</b>
 <body>
+<b> Presenter: </b> <a href="https://jsoboil.github.io/">Joshua Soboil<a/>
 <p>
 A brief overview and tutorial on using Github with R and Rstudio.
 </p>
 </body>
 <h2 id = 'Titles'>BCEA: making decision modelling in R more user-friendly</h2>
-<b>Presenter: <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Dr Nathan Green<a/></b>
 <body>
+<b>Presenter: </b> <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Dr Nathan Green<a/> 
 <p>
 An introduction to the BCEA package and how it enables more user-friendly health economic decision modelling in R.
 </p>

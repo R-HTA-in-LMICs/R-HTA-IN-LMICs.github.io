@@ -15,36 +15,32 @@ Note that the date, time, and theme of each workshop will be provided closer to 
 The annual first quarter workshop invites analysts to present their R-related health economics work. Speakers from academia, government, industry, and consulting will give demonstrations of their R code solving specific challenges in HTA, covering a wide range of topics relevant to HTA in LMICs. You can find the programme and other details below.
 
 ### February 2022 Programme
-The following is the finalised programme for the inaugral 2022 workshop.
+Below is the programme for the inaugural 2022 first-quarter workshop.
 
 <details>
-<summary>Click here for more details</summary>
-
-<h1 id = 'first'>Programme </h1>
-<h2 id = 'Titles'>Introduction</h2>
-<body>
-<b>Presenters: Co-chairs of R-HTA in LMICs </b>
+<summary>Click here for details</summary>
+<b>
+###Introduction
+**Presenters:** Co-chairs of the R-HTA in LMICs chapter
 <p>
 An introduction to the inaugral R-HTA in LMICs workshop. The co-chairs discuss the motivations behind the chapter and introduce the team.
 </p>
-<h2 id = 'Titles'>Getting Started with Github and R</h2>
-<body>
-<b> Presenter: </b> <a href="https://jsoboil.github.io/">Joshua Soboil<a/>
+
+### Getting Started with Github and R
+**Presenter:** [Joshua Soboil](https://jsoboil.github.io/)
 <p>
 A brief overview and tutorial on using Github with R and Rstudio.
 </p>
-</body>
-<h2 id = 'Titles'>BCEA: making decision modelling in R more user-friendly</h2>
-<body>
-<b>Presenter: </b> <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Dr Nathan Green<a/> 
+
+### BCEA: making decision modelling in R more user-friendly
+**Presenter:** [Dr Nathan Green](https://www.ucl.ac.uk/statistics/dr-nathan-green)
 <p>
-An introduction to the BCEA package and how it enables more user-friendly health economic decision modelling in R.
+An introduction to the BCEA package and a presentation on how it enables more user-friendly health economic decision modelling in R.
 </p>
-<a href = "https://cran.r-project.org/web/packages/BCEA/index.html">CRAN link<a/>
-</body>
-<h2 id = 'Titles'>The Potential of R Shiny User Interfaces to Support Health Economic Decision Making</h2>
-<body>
-<b>Presenters: <a href = "https://www.bresmed.com/team/rose-hart/">Rose Hart<a/> and <a href = "https://www.sheffield.ac.uk/scharr/people/pgr-students/robert-smith">Robert Smith<a/></b>
+- Explore the package on [CRAN](https://cran.r-project.org/web/packages/BCEA/index.html)
+
+### The Potential of R Shiny User Interfaces to Support Health Economic Decision Making
+**Presenters:** [Rose Hart](https://www.bresmed.com/team/rose-hart/) and [Robert Smith](https://www.sheffield.ac.uk/scharr/people/pgr-students/robert-smith)
 <p>
 Health economic evaluation models have traditionally been built in Microsoft Excel, but more sophisticated tools are increasingly being used as model complexity and computational requirements increase. Of all the programming languages, R is most popular amongst health economists because it has a plethora of user created packages and is highly flexible. However, even with an integrated development environment such as R Studio, R lacks a simple point and click user interface and therefore requires some programming ability. This might make the switch from Microsoft Excel to R seem daunting, and it might make it difficult to directly communicate results with decisions makers and other stakeholders.
 </p>

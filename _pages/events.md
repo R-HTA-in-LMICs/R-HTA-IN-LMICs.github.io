@@ -48,35 +48,16 @@ Health economic evaluation models have traditionally been built in Microsoft Exc
 <p>
 The R package Shiny has the potential to resolve this limitation. It allows programmers to embed health economic models developed in R into interactive web browser based user interfaces. Users can specify their own assumptions about model parameters and run different scenario analyses, which, in the case of regular a Markov model, can be computed within seconds. This paper provides a tutorial on how to wrap a health economic model built in R into a Shiny application. We use a four-state Markov model developed by the Decision Analysis in R for Technologies in Health (DARTH) group as a case-study to demonstrate main principles and basic functionality.
 </p>
-- Explore the open source code on [Github](https://github.com/r-hta/R-Shiny-for-HTA)
+
+Explore the open source code on [Github](https://github.com/r-hta/R-Shiny-for-HTA)
 
 #### Economic Burden of Female Genital Mutilation in 27 High-Prevalence Countries: a series of national cohort models in R and a web app in Shiny
 **Presenter:** [David Tordup](http://www.davidtordrup.dk/)
 <p>
 An overview of a model on FGM commissioned by the World Health Organization, in collaboration with Triangulate Health Ltd, presented in an interactive format using Shiny.
 </p>
+
 Read more on the study in [BMJ Global Health](https://gh.bmj.com/content/7/2/e004512)
-
-#### The Cost-Effectiveness of COVID Vaccines: a Shiny presentation
-**Presenter:** [Dr Alejandro Lopez Osornio](https://www.himss.org/speaker-alejandro-lopez-osornio)
-<p>
-A an interactive presentation on the health impact and cost-effectiveness of COVID-19 vaccines for 26 Latin American counties, using Shiny.
-</p>
-The code for this model is not open-source
-
-#### Budget Impact Analysis: a Shiny based calculator
-**Presenter:** [Dr Federico Cairoli](https://www.iecs.org.ar/evaluacion-de-tecnologias-sanitarias-y-economia-de-la-salud/equipo-de-trabajo/)
-<p>
-A Budget Impact Analysis presentation focusing Shiny and its ability to provide decision makers with an interactive model format.
-</p>
-The code for this model is not open-source
-
-#### Modelling COVID in R: an experience in using R over Excel for SIR modelling
-**Presenter:** [Dr Ivan Zimmerman](https://www.linkedin.com/in/ivan-zimmermann-57392852/)
-<p>
-A presentation on the experience of moving from Excel to R for SIR modelling. The presentation discusses why modelling an SIR model in Excel takes considerable time and has a high probability of error, due to cell replication. In comparison, using R is much simpler and less prone to error.
-</p>
-The code for this model is not open-source
 
 #### A Simplified Model of the Cost-Effectiveness of Screening: an open-source teaching and research tool coded in R
 **Presenter:** [Yi-Shu Lin](https://www.tcd.ie/medicine/health_policy_management/staff/)
@@ -86,7 +67,32 @@ Models applied in cost-effectiveness analyses of screening are typically designe
 <p>
 The presentations thus describes a lightweight, fully shareable and transparent screening model for teaching and methods research. This is a simplified, discrete-event, microsimulation model of screening coded in R and supported with an Excel-based user interface for the specification of input parameters. The model's components relating to the natural history of disease, test performance and anticipated health gain and healthcare costs are also demonstrated.
 </p>
+
 The source code for this model will be shared once the author has given permission
+
+#### Budget Impact Analysis: a Shiny based calculator
+**Presenter:** [Dr Federico Cairoli](https://www.iecs.org.ar/evaluacion-de-tecnologias-sanitarias-y-economia-de-la-salud/equipo-de-trabajo/)
+<p>
+A Budget Impact Analysis presentation focusing Shiny and its ability to provide decision makers with an interactive model format.
+</p>
+
+The code for this model is not open-source
+
+#### Modelling COVID in R: an experience in using R over Excel for SIR modelling
+**Presenter:** [Dr Ivan Zimmerman](https://www.linkedin.com/in/ivan-zimmermann-57392852/)
+<p>
+A presentation on the experience of moving from Excel to R for SIR modelling. The presentation discusses why modelling an SIR model in Excel takes considerable time and has a high probability of error, due to cell replication. In comparison, using R is much simpler and less prone to error.
+</p>
+
+The code for this model is not open-source
+
+#### The Cost-Effectiveness of COVID Vaccines: a Shiny presentation
+**Presenter:** [Dr Alejandro Lopez Osornio](https://www.himss.org/speaker-alejandro-lopez-osornio)
+<p>
+A an interactive presentation on the health impact and cost-effectiveness of COVID-19 vaccines for 26 Latin American counties, using Shiny.
+</p>
+
+Explore the [Shiny App](https://iecs.shinyapps.io/covid-model-v2/) and open source code on [Github](https://github.com/ciips-code/seir_ages)
 
 #### A Need for Change! A Coding Framework for Improving Transparency in Decision Modelling
 **Presenter:** [Dr Fernando Escudero](https://r-hta.org/authors/fernando-alarid-escudero/)

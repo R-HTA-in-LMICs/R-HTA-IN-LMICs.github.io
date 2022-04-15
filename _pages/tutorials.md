@@ -1,32 +1,32 @@
 ---
-title: "Events"
-permalink: /events/
+title: "Tutorials"
+permalink: /tutorials/
 layout: single
 author_profile: false
 toc: true
-toc_label: "Events"
+toc_label: "Tutorials"
 toc_icon: "calendar-alt"
 toc_sticky: true
 ---
 In the first quarter of every year, the chapter hosts a presentation-based workshop where LMIC university students and members of partnership organisations present their R related health economics work. In every subsequent quarter, the chapter hosts introductory, intermediate, and advanced decision modelling workshops applied within an LMIC context.
 
-## June 2022
+# June 2022
 Details to be provided.
 
-### Schedule and tickets
+## Schedule and tickets
 - Date: 21 June 2022
 - Time: TBA
 
-## August 2022
+# August 2022
 Details to be provided.
 
-### Schedule and tickets
+## Schedule and tickets
 - Date: TBA
 - Time: TBA
 
-## Novemeber 2022
+# Novemeber 2022
 Details to be provided.
 
-### Schedule and tickets
+## Schedule and tickets
 - Date: TBA
 - Time: TBA

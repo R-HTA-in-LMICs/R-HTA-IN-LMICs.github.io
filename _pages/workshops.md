@@ -8,7 +8,7 @@ toc_label: "Workshops"
 toc_icon: "calendar-alt"
 toc_sticky: true
 ---
-# February 2022 Programme
+# 2022 Programme
 The programme for the inaugural 2022 first-quarter workshop is found below.
 
 **Note:** the recording of presentations will be uploaded as soon as possible. We are currently in the process of editing the February workshop.
@@ -25,6 +25,7 @@ An introduction to the inaugural R-HTA in LMICs workshop. The co-chairs discuss 
 <p>
 A brief overview and tutorial on using Github with R and Rstudio.
 </p>
+- Follow the step-by-step text tutorial [here](https://github.com/R-HTA-in-LMICs/Getting-Started-with-Github-and-R)
 
 ## BCEA: making decision modelling in R more user-friendly
 **Presenter:** [Dr Nathan Green](https://www.ucl.ac.uk/statistics/dr-nathan-green)
@@ -61,7 +62,7 @@ Models applied in cost-effectiveness analyses of screening are typically designe
 The presentation thus discusses a lightweight, fully shareable and transparent screening model for teaching and methods research. This is a simplified, discrete-event, microsimulation model of screening coded in R and supported with an Excel-based user interface for the specification of input parameters. The model's components relating to the natural history of disease, test performance and anticipated health gain and healthcare costs are also demonstrated.
 </p>
 
-The source code for this model will be shared once the author has given permission
+Access the model code on [Githib](https://github.com/yishu-lin/Pedagogical-CEA-Model-of-Screening) and view the presentation [here](https://github.com/R-HTA-in-LMICs/R-HTA-in-LMICs-Q1-workshop-2022/tree/main/presentations).
 
 ## Budget Impact Analysis: a Shiny based calculator
 **Presenter:** [Dr Federico Cairoli](https://www.iecs.org.ar/evaluacion-de-tecnologias-sanitarias-y-economia-de-la-salud/equipo-de-trabajo/)
@@ -69,7 +70,7 @@ The source code for this model will be shared once the author has given permissi
 A Budget Impact Analysis presentation focusing Shiny and its ability to provide decision makers with an interactive model format.
 </p>
 
-The code for this model is not open-source
+Explore the [Shiny App](https://github.com/yishu-lin/Pedagogical-CEA-Model-of-Screening) and **use the code 'IECS2024'** when prompted.
 
 ## Modelling COVID in R: an experience in using R over Excel for SIR modelling
 **Presenter:** [Dr Ivan Zimmerman](https://www.linkedin.com/in/ivan-zimmermann-57392852/)
@@ -90,14 +91,14 @@ Explore the [Shiny App](https://iecs.shinyapps.io/covid-model-v2/) and open sour
 ## A Need for Change! A Coding Framework for Improving Transparency in Decision Modelling
 **Presenter:** [Dr Fernando Escudero](https://r-hta.org/authors/fernando-alarid-escudero/)
 <p>
-The use of open-source programming languages, such as R, in health decision sciences is growing and has the potential to facilitate model transparency, reproducibility, and shareability. However, realizing this potential can be challenging. Models are complex and primarily built to answer a research question, with model sharing and transparency relegated to being secondary goals. Consequently, code is often neither well documented nor systematically organized in a comprehensible and shareable approach. Moreover, many decision modelers are not formally trained in computer programming and may lack good coding practices, further compounding the problem of model transparency. To address these challenges, the presentation provides an overview of a high-level framework for model-based decision and cost-effectiveness analyses (CEA) in R.
+The use of open-source programming languages, such as R, in health decision sciences is growing and has the potential to facilitate model transparency, reproducibility, and share-ability. However, realizing this potential can be challenging. Models are complex and primarily built to answer a research question, with model sharing and transparency relegated to being secondary goals. Consequently, code is often neither well documented nor systematically organized in a comprehensible and shareable approach. Moreover, many decision modellers are not formally trained in computer programming and may lack good coding practices, further compounding the problem of model transparency. To address these challenges, the presentation provides an overview of a high-level framework for model-based decision and cost-effectiveness analyses (CEA) in R.
 </p>
-Read the open-access article in [Springer](https://link.springer.com/article/10.1007/s40273-019-00837-x)
+Read the open-access article [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6871515/)
 
 ## Panel discussion: are the features of modern software tools ( R ) also useful for HTA modeling  in LMICs?
 **Panelists:** [Assistant Prof Fernando Alarid-Escudero](https://r-hta.org/authors/fernando-alarid-escudero/), [Prof Gianluca Biao](https://www.ucl.ac.uk/statistics/people/gianlucabaio), [Dr Lucy Cunnama](https://southafrica.inspiringfifty.org/lucy-cunnama), and [Dr Howard Thom](https://www.bristol.ac.uk/people/person/Howard-Thom-7d5ace0c-a4eb-4fa0-8c0b-37dc141c0e9f/)
 
 **Moderator:** [Buhle Ndweni](https://za.linkedin.com/in/buhle-n-04a5661a)
 <p>
-The panel discussion centers on the potential strengths and weaknesses of R for HTA in LMICs across four domains: clinical realism, quantifying decision uncertainty, transparency/reproducibility, and reusability/adaptability.
+The panel discussion centred on the potential strengths and weaknesses of R for HTA in LMICs across four domains: clinical realism, quantifying decision uncertainty, transparency/reproducibility, and reusability/adaptability.
 </p>

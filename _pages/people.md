@@ -9,7 +9,7 @@ author_profile: false
 {: .notice--info}
 # Our Team
 The R-HTA in LMICs team comprises individuals from a range on Lower-Middle Income Countries (LMICs). We a diverse set of skills and backgrounds. We hope to share our experiences in learning R for HTA with you and support your each step along the way!
-[![styled-image](/assets/images/website_team.png "The Team"){: .align-center style = "width: 5%;"}](/assets/images/website_team.png "The Team")
+
 ## Co-chairs
 ### Buhle Ndweni
 [![styled-image](/assets/images/bNdweni.jpeg "Buhle Ndweni, MSc"){: .align-left style = "width: 25%;"}](/assets/images/bNdweni.jpeg "Buhle Ndweni, MSc") Buhle Ndweni is Co-chair and founding member of non-profit 'R for HTA in LMICs Chapter' that falls under the R-HTA Consortium in the UK. She holds an MSc Health Economics and Decision Modelling (MSc HEDM) from the University of Sheffield, UK.

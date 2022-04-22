@@ -15,7 +15,7 @@ author_profile: false
 ### Buhle Ndweni
 [![styled-image](/assets/images/bNdweni.jpeg "Buhle Ndweni, MSc"){: .align-left style = "width: 10%;"}](/assets/images/bNdweni.jpeg "Buhle Ndweni")
 Buhle Ndweni is Co-chair and founding member of non-profit 'R for HTA in LMICs Chapter' that falls under the R-HTA Consortium in the UK. She holds an MSc Health Economics and Decision Modelling (MSc HEDM) from the University of Sheffield, UK.
-Ndweni is passionate about finding innovative solutions to improve access to affordable, equal, quality healthcare in LMICs. She is on a quest to make a significant contribution in healthcare development and investment across the African continent. You can access here LinkedIn profile [here](https://www.linkedin.com/in/buhle-n-04a5661a/).
+Ndweni is passionate about finding innovative solutions to improve access to affordable, equal, quality healthcare in LMICs. She is on a quest to make a significant contribution in healthcare development and investment across the African continent. You can access her LinkedIn profile [here](https://www.linkedin.com/in/buhle-n-04a5661a/).
 
 ### Joshua Soboil
 [![styled-image](/assets/images/jSoboil.jpeg "Joshua Soboil, MPH"){: .align-left style = "width: 10%;"}](/assets/images/jSoboil.jpeg "Joshua Soboil")

@@ -24,8 +24,5 @@ His own work includes the ongoing development of a sensitivity analysis framewor
 
 ## Scientific Committee  
 ### Carina Behr
-[![styled-image](/assets/images/cBehr.jpeg "Carina Behr, MSc"){: .align-left style = "width: 25%;"}](/assets/images/cBehr.jpeg "Carina Behr, MSc") Add text. misc misc misc.
 ### Federico Cairoli
-[![styled-image](/assets/images/fCairoli.jpeg "Federico Cairoli, MD, MSc"){: .align-left style = "width: 25%;"}](/assets/images/fCairoli.jpeg "Federico Cairoli, MD, MSc") Add text. misc misc misc.
 ### Yanga Nokhepheyi
-[![styled-image](/assets/images/yNokhepheyi.jpeg "Yanga Nokhepheyi, MSc"){: .align-left style = "width: 25%;"}](/assets/images/yNokhepheyi.jpeg "Yanga Nokhepheyi, MSc") Add text. misc misc misc

@@ -8,7 +8,7 @@ author_profile: false
 **Note:** this page is currently under construction.
 {: .notice--info}
 # Our Team
-The R-HTA in LMICs team comprises individuals from a range on Lower-Middle Income Countries (LMICs). We a diverse set of skills and backgrounds. We hope to share our experiences in learning R for HTA with you and support your each step along the way!
+The R-HTA in LMICs team comprises individuals from a range of Lower-Middle Income Countries (LMICs). We have a diverse set of skills and backgrounds and hope to share our experiences in learning R for HTA with you!
 [![styled-image](/assets/images/website_team.png "The Team"){: .align-center style = "width: 5%;"}](/assets/images/website_team.png "The Team")
 ## Co-chairs
 ### Buhle Ndweni

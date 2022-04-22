@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "R-HTA in LMICs"
-subtitle: "A chapter of the R-HTA consortium"
+title: "A chapter of the R-HTA consortium"
+subtitle: ""
 name: "R-HTA in LMICs"
 email: info@r-htalmics.org
 description: "Increasing accessibility to R for HTA in LMICs"

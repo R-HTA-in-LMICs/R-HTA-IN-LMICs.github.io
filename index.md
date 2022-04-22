@@ -9,10 +9,10 @@ header:
     - label: "<i class='fas fa-link'></i> Github"
       url: "https://github.com/R-HTA-in-LMICs"
 excerpt: >
-  Aiming to introduce and showcase the strengths of R programming to Health Technology Assessment analysts and health institutions in LMICs.<br />
+  Aiming to introduce and showcase the strengths of R programming to Health Technology Assessment analysts and health institutions in LMICs <br />
   <small><a href=""> </a></small>
 intro:
- - excerpt: 'The chapter hosts annual workshops where LMIC university students and members of partnership organisations are encouraged to present and learn a wide range of R related public health analyses. Please see the events page for further details.'
+ - excerpt: 'The chapter hosts annual workshops where LMIC university students and members of partnership organisations are encouraged to present and learn a wide range of R related public health analyses'
 feature_row_left:
  - image_path: /assets/images/registration_open.png
    title: "Registration"

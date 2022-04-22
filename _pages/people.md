@@ -9,7 +9,7 @@ author_profile: false
 {: .notice--info}
 # Our Team
 The R-HTA in LMICs team comprises individuals from a range on Lower-Middle Income Countries (LMICs). We a diverse set of skills and backgrounds. We hope to share our experiences in learning R for HTA with you and support your each step along the way!
-
+[![styled-image](/assets/images/website_team.png "The Team"){: .align-center style = "width: 5%;"}](/assets/images/website_team.png "The Team")
 ## Co-chairs
 ### Buhle Ndweni
 [![styled-image](/assets/images/bNdweni.jpeg "Buhle Ndweni, MSc"){: .align-left style = "width: 25%;"}](/assets/images/bNdweni.jpeg "Buhle Ndweni, MSc") Buhle Ndweni is Co-chair and founding member of non-profit 'R for HTA in LMICs Chapter' that falls under the R-HTA Consortium in the UK. She holds an MSc Health Economics and Decision Modelling (MSc HEDM) from the University of Sheffield, UK.
@@ -17,16 +17,17 @@ Ndweni is passionate about finding innovative solutions to improve access to aff
 ### Joshua Soboil
 [![styled-image](/assets/images/jSoboil.jpeg "Joshua Soboil, MPH"){: .align-left style = "width: 25%;"}](/assets/images/jSoboil.jpeg "Joshua Soboil, MPH") Joshua is a Co-Chair and founding member of R-HTA in LMICs. Joshua enjoys problem solving and has developed a special love for evidence synthesis and advanced health economic decision-modelling techniques, using languages such as BUGS/JAGS and Stan coupled with R.
 His own work includes the ongoing development of a sensitivity analysis framework for HTA in Middle-Income Countries (MICs). A case study used to support the framework can be found <a href="https://github.com/jSoboil/Dissertation">here</a>. You can also find his personal website <a href="https://jsoboil.github.io/">here</a>.
+<br>
 ## Scientific Committee  
 ### Carina Behr
-[![styled-image](/assets/images/jSoboil.jpeg "Joshua Soboil, MPH"){: .align-left style = "width: 25%;"}](/assets/images/jSoboil.jpeg "Joshua Soboil, MPH")
+[![styled-image](/assets/images/cBehr.jpeg "Carina Behr, MSc"){: .align-left style = "width: 25%;"}](/assets/images/cBehr.jpeg "Carina Behr, MSc")
 Add text.
 misc misc misc.
 ### Federico Cairoli
-[![styled-image](/assets/images/jSoboil.jpeg "Joshua Soboil, MPH"){: .align-left style = "width: 25%;"}](/assets/images/jSoboil.jpeg "Joshua Soboil, MPH")
+[![styled-image](/assets/images/fCairoli.jpeg "Federico Cairoli, MD, MSc"){: .align-left style = "width: 25%;"}](/assets/images/fCairoli.jpeg "Federico Cairoli, MD, MSc")
 Add text.
-misc misc misc  
+misc misc misc.
 ### Yanga Nokhepheyi
-[![styled-image](/assets/images/jSoboil.jpeg "Joshua Soboil, MPH"){: .align-left style = "width: 25%;"}](/assets/images/jSoboil.jpeg "Joshua Soboil, MPH")
+[![styled-image](/assets/images/yNokhepheyi.jpeg "Yanga Nokhepheyi, MSc"){: .align-left style = "width: 25%;"}](/assets/images/yNokhepheyi.jpeg "Yanga Nokhepheyi, MSc")
 Add text.
 misc misc misc

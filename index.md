@@ -12,7 +12,7 @@ excerpt: >
   Aiming to introduce and showcase the strengths of R programming to Health Technology Assessment analysts and health institutions in LMICs <br />
   <small><a href=""> </a></small>
 intro:
- - excerpt: 'The chapter hosts annual workshops where LMIC university students and members of partnership organisations are encouraged to present and learn a wide range of R related public health analyses'
+ - excerpt: 'The chapter hosts an annual workshop and quarterly tutorials where LMIC students and members of partnership organisations are encouraged to present and learn a wide range of R related public health analyses'
 feature_row_left:
  - image_path: /assets/images/registration_open.png
    title: "Registration"
@@ -24,7 +24,7 @@ feature_row_right:
  - image_path: /assets/images/panel.png
    title: "R in LMICs: what's the potential?"
    excerpt: "Join our panel discussion on the 23rd February and gain valuable insight from our HTA experts, [Prof Gianluca Baio](https://r-hta.org/authors/gianluca-baio/), [Dr Howard Thom](https://r-hta.org/authors/howard-thom/), [Dr Fernando Escudero](https://r-hta.org/authors/fernando-alarid-escudero/), and [Dr Lucy Cunamma](https://southafrica.inspiringfifty.org/lucy-cunnama), debating the potential advantages and pitfalls of R in LMIC contexts."
-   url: /events/
+   url: /workshops/
    btn_label: "Read More"
    btn_class: "btn--primary"
 ---

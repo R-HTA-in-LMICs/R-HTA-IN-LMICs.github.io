@@ -8,7 +8,7 @@ toc_label: "Tutorials"
 toc_icon: "calendar-alt"
 toc_sticky: true
 ---
-In the first quarter of every year, the chapter hosts a presentation-based workshop where LMIC university students and members of partnership organisations present their R related health economics work. In every subsequent quarter, the chapter hosts introductory, intermediate, and advanced decision modelling workshops applied within an LMIC context.
+In every second, third, and fourth quarter, the chapter hosts introductory, intermediate, and advanced decision modelling workshops applied within an LMIC context. At each tutorial, participants are given a detailed and technical overview of the topic and are then encouraged to build the model and interact with the presenters to gain a more practical understanding.
 
 # June 2022
 Details to be provided.

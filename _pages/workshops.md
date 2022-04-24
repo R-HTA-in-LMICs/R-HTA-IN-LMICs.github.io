@@ -8,6 +8,8 @@ toc_label: "Workshops"
 toc_icon: "calendar-alt"
 toc_sticky: true
 ---
+In the first quarter of every year, the chapter hosts a presentation-based workshop where LMIC university students and members of partnership organisations present their R related health economics work. Please see the latest workshop programme below accompanied by links to each presenter's materials.
+
 # 2022 Programme
 The programme for the inaugural 2022 first-quarter workshop is found below.
 

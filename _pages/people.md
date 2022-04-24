@@ -17,9 +17,11 @@ Ndweni is passionate about finding innovative solutions to improve access to aff
 ### Joshua Soboil
 [![styled-image](/assets/images/jSoboil.jpeg "Joshua Soboil, MPH"){: .align-left style = "width: 25%;"}](/assets/images/jSoboil.jpeg "Joshua Soboil, MPH") Joshua is a Co-Chair and founding member of R-HTA in LMICs. Joshua enjoys problem solving and has developed a special love for evidence synthesis and advanced health economic decision-modelling techniques, using languages such as BUGS/JAGS and Stan coupled with R.
 His own work includes the ongoing development of a sensitivity analysis framework for HTA in Middle-Income Countries (MICs). A case study used to support the framework can be found [here](https://github.com/jSoboil/Dissertation). You can also find his personal website [here](https://jsoboil.github.io/).  
+
   
 **Note:** this page is currently under construction.
 {: .notice--info}  
+
 ## Scientific Committee  
 ### Carina Behr
 ### Federico Cairoli

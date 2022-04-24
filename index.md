@@ -13,6 +13,11 @@ excerpt: >
   <small><a href=""> </a></small>
 intro:
  - excerpt: 'The chapter hosts an annual workshop and quarterly tutorials where LMIC students and members of partnership organisations are encouraged to present and learn a wide range of R related public health analyses'
+ feature_row_left:
+ - image_path: /assets/images/Save the Date_Tutorial_21Jun2022 (22 April 2022).pptx.jpg
+   title: "SAVE THE DATE"
+   excerpt: "Save *the 21st of June 2022* in your calendar so you can register to attend our half-day interactive tutorial where you will gain practical skills in HTA modelling using R software"
+   btn_label: "Details coming soon"
 feature_row_left:
  - image_path: /assets/images/registration_open.png
    title: "Registration"

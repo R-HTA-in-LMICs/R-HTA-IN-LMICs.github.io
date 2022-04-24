@@ -2,7 +2,6 @@
 title: ""
 permalink: /people/
 layout: single
-classes: wide
 author_profile: false
 ---
 # The Team

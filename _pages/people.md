@@ -4,8 +4,8 @@ permalink: /people/
 layout: single
 author_profile: false
 toc: true
-toc_label: "The Team"
-toc_icon: "people-group"
+toc_label: "People"
+toc_icon: "users"
 toc_sticky: true
 ---
 # The Team

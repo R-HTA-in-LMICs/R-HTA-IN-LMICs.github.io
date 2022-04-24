@@ -3,6 +3,10 @@ title: ""
 permalink: /people/
 layout: single
 author_profile: false
+toc: true
+toc_label: "The Team"
+toc_icon: "people-group"
+toc_sticky: true
 ---
 # The Team
 The R-HTA in LMICs team comprises individuals from a range of Lower-Middle Income Countries (LMICs). We have a diverse set of skills and backgrounds and hope to share our experiences in learning R for HTA with you!

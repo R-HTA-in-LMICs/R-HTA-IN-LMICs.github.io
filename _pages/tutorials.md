@@ -10,7 +10,7 @@ toc_sticky: true
 ---
 In every second, third, and fourth quarter, the chapter hosts introductory, intermediate, and advanced decision modelling workshops applied within an LMIC context. At each tutorial, participants are given a detailed and technical overview of the topic and are then encouraged to build the model and interact with the presenters to gain a more practical understanding.
 
-# June 2022
+# Tuesday, 21 June 2022
 Delegates attending this tutorial will be given hands-on experience in building a simple sick-sicker health economics model for HTA, using the DARTH package. 
 
 This tutorial will:
@@ -21,10 +21,12 @@ This tutorial will:
   
 ## Schedule and tickets
 - Date: 21 June 2022
-- Time: 13:00 CAT
+- Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
 - Tickets: purchase tickets [here](https://www.eventbrite.com/e/an-introduction-to-r-for-hta-tickets-328078430417)
 
-# August 2022
+# UPCOMING TUTORIALS 
+
+#August 2022
 Details to be provided.
 
 ## Schedule and tickets

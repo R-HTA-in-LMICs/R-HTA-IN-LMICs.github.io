@@ -18,14 +18,14 @@ feature_row_left:
    title: "Save the Date"
    excerpt: "Save the 21st of June 2022 in your calendar and register to attend our half-day interactive tutorial to gain practical skills in HTA modelling using R software"
    btn_label: "Details coming soon"
-feature_row_left:
- - image_path: /assets/images/registration_open.png
-   title: "Registration"
-   excerpt: "Purchase tickets for the first-quarter workshop"
-   url: https://onlinestore.ucl.ac.uk/conferences-and-events/faculty-of-mathematical-physical-sciences-c06/department-of-statistical-science-f61/f61-workshop-r-for-health-technology-assessment-in-lmics
-   btn_label: "Click here"
-   btn_class: "btn--primary"
 feature_row_right:
+ - image_path: /assets/images/registration_open.png
+   title: "Inaugural workshop"
+   excerpt: "If you missed our inaugural workshop, view the presentations by clicking the link below!"
+   url: /workshops/
+   btn_label: "View here"
+   btn_class: "btn--primary"
+feature_row_left_2:
  - image_path: /assets/images/panel.png
    title: "R in LMICs: what's the potential?"
    excerpt: "Join our panel discussion on the 23rd February and gain valuable insight from our HTA experts, [Prof Gianluca Baio](https://r-hta.org/authors/gianluca-baio/), [Dr Howard Thom](https://r-hta.org/authors/howard-thom/), [Dr Fernando Escudero](https://r-hta.org/authors/fernando-alarid-escudero/), and [Dr Lucy Cunamma](https://southafrica.inspiringfifty.org/lucy-cunnama), debating the potential advantages and pitfalls of R in LMIC contexts."

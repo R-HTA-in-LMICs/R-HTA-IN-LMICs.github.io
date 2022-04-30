@@ -14,7 +14,7 @@ excerpt: >
 intro:
  - excerpt: 'The chapter hosts an annual workshop and quarterly tutorials where LMIC students and members of partnership organisations are encouraged to present and learn a wide range of R related public health analyses'
 feature_row_left:
- - image_path: /assets/images/RegistrationsOpen_updated.jpg
+ - image_path: /assets/images/RegistrationsOpen_updated2.jpg
    title: "Registrations now open"
    excerpt: "Register to attend our upcoming half-day interactive tutorial on Tuesday, 21 June 2022 and gain practical skills in R for HTA modelling.This tutorial will be give you hands-on experience in building a simple sick-sicker decision analytical model for Health Technology Assessment, using the DARTH package"
    url: "https://www.eventbrite.com/e/an-introduction-to-r-for-hta-tickets-328078430417"

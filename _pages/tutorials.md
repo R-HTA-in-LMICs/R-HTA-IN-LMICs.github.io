@@ -14,7 +14,7 @@ In every second, third, and fourth quarter, the chapter hosts introductory, inte
 Delegates attending this tutorial will be given hands-on experience in building a simple sick-sicker health economics model for HTA, using the DARTH package. 
 
 This tutorial will:
-- give you an overview of basic R syntax;
+- give you an overview of basic R language;
 - help you get to grips with R as a first-time user;
 - give you a conceptual introduction to Markov Models; and
 - guide you through a simple cost-effectiveness model using the DARTH package
@@ -24,8 +24,6 @@ This tutorial will:
 - Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
 - Tickets: purchase tickets [here](https://www.eventbrite.com/e/an-introduction-to-r-for-hta-tickets-328078430417)
 
-# UPCOMING TUTORIALS 
-
 
 # August 2022
 Details to be provided.
@@ -33,6 +31,7 @@ Details to be provided.
 ## Schedule and tickets
 - Date: TBA
 - Time: TBA
+
 
 # November 2022
 Details to be provided.

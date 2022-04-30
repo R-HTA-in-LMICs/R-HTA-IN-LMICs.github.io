@@ -10,7 +10,7 @@ toc_sticky: true
 ---
 In every second, third, and fourth quarter, the chapter hosts introductory, intermediate, and advanced decision modelling workshops applied within an LMIC context. At each tutorial, participants are given a detailed and technical overview of the topic and are then encouraged to build the model and interact with the presenters to gain a more practical understanding.
 
-# Next Tutorial: 21 June 2022
+# 21 June 2022
 Delegates attending this tutorial will be given hands-on experience in building a simple sick-sicker health economics model for HTA, using the DARTH package. 
 
 This tutorial will:

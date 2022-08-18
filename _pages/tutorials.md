@@ -25,12 +25,21 @@ This tutorial will:
 - Tickets: purchase tickets [here](https://www.eventbrite.com/e/an-introduction-to-r-for-hta-tickets-328078430417)
 
 
-# August 2022
+# 20 September 2022
 Details to be provided.
 
+Delegates attending this tutorial will be given hands-on experience in building a simple sick-sicker health economics model for HTA, using the DARTH package. 
+
+This intermediate tutorial aims to:
+- build on an introductory tutorial;
+- help you develop a deeper understanding of the R language and its applicability to decision-modelling in health economics;
+- provide a conceptual introduction to time-dependent Markov Models; and
+- code a time-dependent Markov model from scratch, for a hypothetical cost-effectiveness analysis.
+
 ## Schedule and tickets
-- Date: TBA
-- Time: TBA
+- Date: 20 September 2022
+- Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
+- Tickets: purchase tickets [here](https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227)
 
 
 # November 2022

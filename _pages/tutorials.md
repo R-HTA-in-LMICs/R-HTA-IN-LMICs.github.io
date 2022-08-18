@@ -24,7 +24,6 @@ This tutorial will:
 - Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
 - Tickets: purchase tickets [here](https://www.eventbrite.com/e/an-introduction-to-r-for-hta-tickets-328078430417)
 
-
 # 20 September 2022
 Participants will be given hands-on experience in building in undertaking a PSA (probabilistic sensitivity analysis) on a basic sick-sicker decision analytic model for HTA. 
 
@@ -38,7 +37,6 @@ This intermediate tutorial aims to:
 - Date: 20 September 2022
 - Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
 - Tickets: purchase tickets [here](https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227)
-
 
 # November 2022
 Details to be provided.

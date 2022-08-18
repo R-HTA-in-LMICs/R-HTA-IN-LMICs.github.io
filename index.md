@@ -15,7 +15,7 @@ intro:
  - excerpt: 'The chapter hosts an annual workshop and quarterly tutorials where LMIC students and members of partnership organisations are encouraged to present and learn a wide range of R related public health analyses'
 feature_row_left:
  - image_path: assets/images/Q3 Workshop_20SeptRegBanner.png
-   title: "Registrations now open"
+   title: "Registrations now open - 20 September 2022"
    excerpt: "Register to attend our upcoming half-day interactive tutorial on Tuesday, 20 September 2022 and gain practical skills in R for HTA modelling.This tutorial, which will build on the skills taught in the introductory Q2 workshop, will be give you hands-on experience in building a basic sick-sicker decision analytical model for Health Technology Assessment."
    url: "https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227"
    btn_label: "Register here"
@@ -29,7 +29,7 @@ feature_row_left_2:
    btn_class: "btn--primary"
 feature_row_left_3:
  - image_path: /assets/images/registration_open.png
-   title: "Inaugural workshop"
+   title: "Inaugural workshop - 23 February 2022"
    excerpt: "If you missed our inaugural workshop, view the presentations by clicking below!"
    url: /workshops/
    btn_label: "View here"
@@ -37,9 +37,9 @@ feature_row_left_3:
 feature_row_left_4:
  - image_path: /assets/images/panel.png
    title: "R in LMICs: what's the potential?"
-   excerpt: "Join our panel discussion on the 23rd February and gain valuable insight from our HTA experts, [Prof Gianluca Baio](https://r-hta.org/authors/gianluca-baio/), [Dr Howard Thom](https://r-hta.org/authors/howard-thom/), [Dr Fernando Escudero](https://r-hta.org/authors/fernando-alarid-escudero/), and [Dr Lucy Cunamma](https://southafrica.inspiringfifty.org/lucy-cunnama), debating the potential advantages and pitfalls of R in LMIC contexts."
+   excerpt: "Our panel discussion on the 23rd February 2022 provided participants with valuable insights from our HTA experts, [Prof Gianluca Baio](https://r-hta.org/authors/gianluca-baio/), [Dr Howard Thom](https://r-hta.org/authors/howard-thom/), [Dr Fernando Escudero](https://r-hta.org/authors/fernando-alarid-escudero/), and [Dr Lucy Cunamma](https://southafrica.inspiringfifty.org/lucy-cunnama), who debated on the potential advantages and pitfalls of R within the LMIC contexts."
    url: /workshops/
-   btn_label: "Read More"
+   btn_label: "Read more"
    btn_class: "btn--primary"
 ---
 {% include feature_row id="intro" type="center" %}

@@ -14,11 +14,18 @@ excerpt: >
 intro:
  - excerpt: 'The chapter hosts an annual workshop and quarterly tutorials where LMIC students and members of partnership organisations are encouraged to present and learn a wide range of R related public health analyses'
 feature_row_left:
- - image_path: /assets/images/RegistrationsOpen_updated2.jpg
+ - image_path: assets/images/Q3 Workshop_20SeptRegBanner.png
    title: "Registrations now open"
-   excerpt: "Register to attend our upcoming half-day interactive tutorial on Tuesday, 21 June 2022 and gain practical skills in R for HTA modelling.This tutorial will be give you hands-on experience in building a simple sick-sicker decision analytical model for Health Technology Assessment, using the DARTH package."
-   url: "https://www.eventbrite.com/e/an-introduction-to-r-for-hta-tickets-328078430417"
+   excerpt: "Register to attend our upcoming half-day interactive tutorial on Tuesday, 20 September 2022 and gain practical skills in R for HTA modelling.This tutorial, which will build on the skills taught in the introductory Q2 workshop, will be give you hands-on experience in building a basic sick-sicker decision analytical model for Health Technology Assessment."
+   url: "https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227"
    btn_label: "Register here"
+   btn_class: "btn--primary"
+feature_row_left:
+ - image_path: /assets/images/RegistrationsOpen_updated2.jpg
+   title: "Q2 Workshop - 21 June 2022"
+   excerpt: "The half-day interactive tutorial was held on Tuesday, 21 June 2022 where particapnts gained practical skills in R for HTA modelling.The tutorial equipped partcipants with hands-on experience in building a simple sick-sicker decision analytical model for Health Technology Assessment, using the DARTH package."
+   url: "https://github.com/R-HTA-in-LMICs/June-Workshop"
+   btn_label: "View resources"
    btn_class: "btn--primary"
 feature_row_left_2:
  - image_path: /assets/images/registration_open.png

@@ -20,21 +20,21 @@ feature_row_left:
    url: "https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227"
    btn_label: "Register here"
    btn_class: "btn--primary"
-feature_row_left:
+feature_row_left_2:
  - image_path: /assets/images/RegistrationsOpen_updated2.jpg
    title: "Q2 Workshop - 21 June 2022"
    excerpt: "The half-day interactive tutorial was held on Tuesday, 21 June 2022 where particapnts gained practical skills in R for HTA modelling.The tutorial equipped partcipants with hands-on experience in building a simple sick-sicker decision analytical model for Health Technology Assessment, using the DARTH package."
    url: "https://github.com/R-HTA-in-LMICs/June-Workshop"
    btn_label: "View resources"
    btn_class: "btn--primary"
-feature_row_left_2:
+feature_row_left_3:
  - image_path: /assets/images/registration_open.png
    title: "Inaugural workshop"
    excerpt: "If you missed our inaugural workshop, view the presentations by clicking below!"
    url: /workshops/
    btn_label: "View here"
    btn_class: "btn--primary"
-feature_row_left_3:
+feature_row_left_4:
  - image_path: /assets/images/panel.png
    title: "R in LMICs: what's the potential?"
    excerpt: "Join our panel discussion on the 23rd February and gain valuable insight from our HTA experts, [Prof Gianluca Baio](https://r-hta.org/authors/gianluca-baio/), [Dr Howard Thom](https://r-hta.org/authors/howard-thom/), [Dr Fernando Escudero](https://r-hta.org/authors/fernando-alarid-escudero/), and [Dr Lucy Cunamma](https://southafrica.inspiringfifty.org/lucy-cunnama), debating the potential advantages and pitfalls of R in LMIC contexts."

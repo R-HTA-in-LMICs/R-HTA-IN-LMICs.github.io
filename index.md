@@ -17,7 +17,7 @@ feature_row_left:
  - image_path: assets/images/Q3 Workshop_20SeptRegBanner.png
    title: "Q3 Tutorial - 20 September 2022"
    excerpt: "This half-day interactive tutorial was held on Tuesday, 20 September 2022 and participants gained practical skills in R for HTA modelling. The tutorial, built on the skills taught in the introductory Q2 Tutorial and gave hands-on experience in building a basic sick-sicker decision analytical model for Health Technology Assessment."
-   url: "https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227"
+   url: "https://github.com/R-HTA-in-LMICs/September-Workshop"
    btn_label: "View resources"
    btn_class: "btn--primary"
 feature_row_left_2:

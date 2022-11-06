@@ -38,7 +38,7 @@ This intermediate tutorial aims to:
 - Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
 - Tickets: purchase tickets [here](https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227)
 
-# November 2022
+# January 2023
 Details to be provided.
 
 ## Schedule and tickets

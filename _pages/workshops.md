@@ -8,13 +8,13 @@ toc_label: "Workshops"
 toc_icon: "calendar-alt"
 toc_sticky: true
 ---
-In the first quarter of every year, the chapter hosts a presentation-based workshop where LMIC university students and members of partnership organisations present their R related health economics work. Please see the latest workshop programme below accompanied by links to each presenter's materials.
+In the first quarter, the chapter hosts a presentation-based workshop where LMIC university students and members of partnership organisations present their R related health economics work. Please see the latest workshop programme below accompanied by links to each presenter's materials.
+
+## Due to capacity issues the R-HTA in LMICs Chapter will not be holding its annual presentation-based workshop this year. 
+## Please register to attend the main R-HTA Consortium;s hybrid workshop that will be held on Thursday 8th, Friday 9th, and Monday 12th June 2023. [Click here for more details](https://r-hta.org/events/workshop/2023/
 
 # 2022 Programme
 The programme for the inaugural 2022 first-quarter workshop is found below.
-
-**Note:** the recording of presentations will be uploaded as soon as possible. We are currently in the process of editing the February workshop.
-{: .notice--info}
 
 ## Introduction
 **Presenters:** Co-chairs of the R-HTA in LMICs chapter

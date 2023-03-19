@@ -29,7 +29,7 @@ This intermediate tutorial aims to:
 ## Schedule and tickets
 - Date: 20 January 2023
 - Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
-- Tickets: registration closed [view invite here](https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227)
+- Registrations closed [view invite](https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227)
 
 # 20 September 2022
 Participants will be given hands-on experience in building in undertaking a PSA (probabilistic sensitivity analysis) on a basic sick-sicker decision analytic model for HTA. 
@@ -43,7 +43,7 @@ This intermediate tutorial aims to:
 ## Schedule and tickets
 - Date: 20 September 2022
 - Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
-- Registrations closed [here](https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227)
+- Registrations closed [view invite](https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227)
 
 # 21 June 2022
 Participants will be given hands-on experience in building a simple sick-sicker health economics model for HTA, using the DARTH package. 
@@ -57,5 +57,5 @@ This tutorial will:
 ## Schedule and tickets
 - Date: 21 June 2022
 - Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
-- Registrations closed [here](https://www.eventbrite.com/e/an-introduction-to-r-for-hta-tickets-328078430417)
+- Registrations closed [view invite](https://www.eventbrite.com/e/an-introduction-to-r-for-hta-tickets-328078430417)
 

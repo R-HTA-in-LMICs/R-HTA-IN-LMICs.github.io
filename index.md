@@ -44,7 +44,7 @@ feature_row_left_3:
    
 feature_row_left_4:
  - image_path: /assets/images/registration_open.png
-   title: "Inaugural workshop - 23 February 2022"
+   title: "Inaugural presentation-based workshop - 23 February 2022"
    excerpt: "If you missed our inaugural workshop, view the presentations by clicking below!"
    url: /workshops/
    btn_label: "View resources"

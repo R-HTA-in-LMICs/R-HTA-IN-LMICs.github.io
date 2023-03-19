@@ -18,7 +18,7 @@ intro:
 
 ### Please register to attend the main R-HTA Consortium's hybrid workshop that will be held on Thursday 8th, Friday 9th, and Monday 12th June 2023. [View more details here](https://r-hta.org/events/workshop/2023/)
 
-feature_row_left_1:
+feature_row_left:
  - image_path: assets/images/Advanced R-HTA Modelling Tutorial.png
    title: "Q3 Tutorial - 20 January 2023"
    excerpt: "This half-day interactive tutorial was held on Tuesday, 20 January 2023 and participants gained practical skills on how to convert a model built in Excel to R. The tutorial also showed participants how to build an interactive model using Shiny."

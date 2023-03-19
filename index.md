@@ -12,7 +12,10 @@ excerpt: >
   Aiming to introduce and showcase the strengths of R programming to Health Technology Assessment analysts and health institutions in LMICs <br />
   <small><a href=""> </a></small>
 intro:
- - excerpt: 'The chapter hosts an annual workshop and quarterly tutorials where LMIC students and members of partnership organisations are encouraged to present and learn a wide range of R related public health analyses. Due to capacity issues, the R-HTA in LMICs Chapter will not be hosting the workshop this year. Please register to attend the main R-HTA Consortium's hybrid workshop that will be held on Thursday 8th, Friday 9th, and Monday 12th June 2023. [View more details here](https://r-hta.org/events/workshop/2023/) '
+ - excerpt: 'The chapter hosts an annual workshop and quarterly tutorials where LMIC students and members of partnership organisations are encouraged to present and learn a wide range of R related public health analyses.'
+ 
+ intro:
+ - except: 'Due to capacity issues, the R-HTA in LMICs Chapter will not be hosting the workshop this year. Please register to attend the main R-HTA Consortium's hybrid workshop that will be held on Thursday 8th, Friday 9th, and Monday 12th June 2023. [View more details here](https://r-hta.org/events/workshop/2023/)'
 
 feature_row_left:
  - image_path: assets/images/Advanced R-HTA Modelling Tutorial.png

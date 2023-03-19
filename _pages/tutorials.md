@@ -8,21 +8,27 @@ toc_label: "Tutorials"
 toc_icon: "calendar-alt"
 toc_sticky: true
 ---
-In every second, third, and fourth quarter, the chapter hosts introductory, intermediate, and advanced decision modelling workshops applied within an LMIC context. At each tutorial, participants are given a detailed and technical overview of the topic and are then encouraged to build the model and interact with the presenters to gain a more practical understanding.
+The chapter hosts introductory, intermediate, and advanced decision modelling workshops annually that are applied within an LMIC context. 
 
-# 21 June 2022
-Participants will be given hands-on experience in building a simple sick-sicker health economics model for HTA, using the DARTH package. 
+At each tutorial, participants are given a detailed and technical overview of the topic and are then encouraged to build the model and interact with the presenters to gain a more practical understanding.
 
-This tutorial will:
-- give you an overview of basic R language;
-- help you get to grips with R as a first-time user;
-- give you a conceptual introduction to Markov Models; and
-- guide you through a simple cost-effectiveness model using the DARTH package
-  
+## Due to capacity issues the R-HTA in LMICs Chapter will not be holding its annual workshop this year. 
+## Please register to attend the main R-HTA Consortium;s hybrid workshop that will be held on Thursday 8th, Friday 9th, and Monday 12th June 2023. [Click here for more details](https://r-hta.org/events/workshop/2023/)
+
+# 20 January 2023
+Participants will be given hands-on experience in converting a model built in Excel to R and building an interactive model using Rshiny. 
+
+This intermediate tutorial aims to:
+- build on the September 2022 intermediary tutorial;
+- Converting your model from Excel to R: a case study in HIV/AIDS
+- Making health economics Shiny to improve model transparency and usability
+- Understanding Shiny interactions and converting your R script into a Shiny model
+- Making your Shiny model probabilistic
+
 ## Schedule and tickets
-- Date: 21 June 2022
+- Date: 20 January 2023
 - Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
-- Tickets: purchase tickets [here](https://www.eventbrite.com/e/an-introduction-to-r-for-hta-tickets-328078430417)
+- Tickets: registration closed [view invite here](https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227)
 
 # 20 September 2022
 Participants will be given hands-on experience in building in undertaking a PSA (probabilistic sensitivity analysis) on a basic sick-sicker decision analytic model for HTA. 
@@ -36,11 +42,19 @@ This intermediate tutorial aims to:
 ## Schedule and tickets
 - Date: 20 September 2022
 - Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
-- Tickets: purchase tickets [here](https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227)
+- Registrations closed [here](https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227)
 
-# January 2023
-Details to be provided.
+# 21 June 2022
+Participants will be given hands-on experience in building a simple sick-sicker health economics model for HTA, using the DARTH package. 
 
+This tutorial will:
+- give you an overview of basic R language;
+- help you get to grips with R as a first-time user;
+- give you a conceptual introduction to Markov Models; and
+- guide you through a simple cost-effectiveness model using the DARTH package
+  
 ## Schedule and tickets
-- Date: TBA
-- Time: TBA
+- Date: 21 June 2022
+- Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
+- Registrations closed [here](https://www.eventbrite.com/e/an-introduction-to-r-for-hta-tickets-328078430417)
+

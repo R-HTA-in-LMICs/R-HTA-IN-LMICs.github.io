@@ -9,6 +9,8 @@ toc_icon: "calendar-alt"
 toc_sticky: true
 ---
 The chapter hosts a presentation-based workshop annually where LMIC university students and members of partnership organisations present their R related health economics work. 
+
+# 2023 Programme
 ### Due to capacity issues, the R-HTA in LMICs Chapter will not be hosting the workshop this year.
 
 ### Please register to attend the main R-HTA Consortium's hybrid workshop that will be held on Thursday 8th, Friday 9th, and Monday 12th June 2023. [View more details here](https://r-hta.org/events/workshop/2023/)

@@ -20,25 +20,28 @@ intro:
 
 feature_row_left:
  - image_path: assets/images/Advanced R-HTA Modelling Tutorial.png
-   title: "Q3 Tutorial - 20 January 2023"
+   title: "Advanced R-HTA Modelling Tutorial - 20 January 2023"
    excerpt: "This half-day interactive tutorial was held on Tuesday, 20 January 2023 and participants gained practical skills on how to convert a model built in Excel to R. The tutorial also showed participants how to build an interactive model using Shiny."
    url: "https://github.com/R-HTA-in-LMICs/Advanced-Tutorial-2022"
    btn_label: "View resources"
    btn_class: "btn--primary"
+   
 feature_row_left_2:
  - image_path: assets/images/Q3 Workshop_20SeptRegBanner.png
-   title: "Q3 Tutorial - 20 September 2022"
+   title: "Intermediary R-HTA Modelling Tutorial - 20 September 2022"
    excerpt: "This half-day interactive tutorial was held on Tuesday, 20 September 2022 and participants gained practical skills in R for HTA modelling. The tutorial, built on the skills taught in the introductory Q2 Tutorial and gave hands-on experience in building a basic sick-sicker decision analytical model for Health Technology Assessment."
    url: "https://github.com/R-HTA-in-LMICs/September-Workshop"
    btn_label: "View resources"
    btn_class: "btn--primary"
+   
 feature_row_left_3:
  - image_path: /assets/images/RegistrationsOpen_updated2.jpg
-   title: "Q2 Tutorial - 21 June 2022"
+   title: "Introductory R-HTA Modelling Tutorial - 21 June 2022"
    excerpt: "The half-day interactive tutorial was held on Tuesday, 21 June 2022 where particapnts gained practical skills in R for HTA modelling.The tutorial equipped partcipants with hands-on experience in building a simple sick-sicker decision analytical model for Health Technology Assessment, using the DARTH package."
    url: "https://github.com/R-HTA-in-LMICs/June-Workshop"
    btn_label: "View resources"
    btn_class: "btn--primary"
+   
 feature_row_left_4:
  - image_path: /assets/images/registration_open.png
    title: "Inaugural workshop - 23 February 2022"
@@ -46,6 +49,7 @@ feature_row_left_4:
    url: /workshops/
    btn_label: "View resources"
    btn_class: "btn--primary"
+   
 feature_row_left_5:
  - image_path: /assets/images/panel.png
    title: "R in LMICs: what's the potential?"

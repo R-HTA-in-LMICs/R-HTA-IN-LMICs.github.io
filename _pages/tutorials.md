@@ -8,12 +8,13 @@ toc_label: "Tutorials"
 toc_icon: "calendar-alt"
 toc_sticky: true
 ---
-The chapter hosts introductory, intermediate, and advanced decision modelling workshops annually that are applied within an LMIC context. 
-
-At each tutorial, participants are given a detailed and technical overview of the topic and are then encouraged to build the model and interact with the presenters to gain a more practical understanding.
 
 ## Due to capacity issues the R-HTA in LMICs Chapter will not be holding its annual workshop this year. 
 ## Please register to attend the main R-HTA Consortium;s hybrid workshop that will be held on Thursday 8th, Friday 9th, and Monday 12th June 2023. [Click here for more details](https://r-hta.org/events/workshop/2023/)
+
+The chapter hosts introductory, intermediate, and advanced decision modelling workshops annually that are applied within an LMIC context. 
+
+At each tutorial, participants are given a detailed and technical overview of the topic and are then encouraged to build the model and interact with the presenters to gain a more practical understanding.
 
 # 20 January 2023
 Participants will be given hands-on experience in converting a model built in Excel to R and building an interactive model using Rshiny. 

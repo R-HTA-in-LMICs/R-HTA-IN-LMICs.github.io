@@ -13,6 +13,7 @@ The chapter hosts introductory, intermediate, and advanced decision modelling wo
 
 At each tutorial, participants are given a detailed and technical overview of the topic and are then encouraged to build the model and interact with the presenters to gain a more practical understanding.
 
+
 # 25 September 2023
 Participants will be given hands-on experience in building a simple sick-sicker health economics model for HTA, using the DARTH package. 
 
@@ -21,11 +22,12 @@ This tutorial will:
 - help you get to grips with R as a first-time user;
 - give you a conceptual introduction to Markov Models; and
 - guide you through a simple CEA  model assessing the cost-effectiveness of comparator ARV regimens for HIV/AIDS 
-  
+
 ## Schedule and tickets
-- Date: 21 June 2022
+- Date: 25 September 2023
 - Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
-- Registrations closed [view invite](https://www.eventbrite.com/e/an-introduction-to-r-for-hta-tickets-328078430417)
+- Registrations open [view invite](https://www.eventbrite.com/e/introduction-to-r-for-hta-modelling-tickets-713568642017?aff=oddtdtcreator)
+
 
 # 20 January 2023
 Participants will be given hands-on experience in converting a model built in Excel to R and building an interactive model using Rshiny. 
@@ -41,6 +43,7 @@ This intermediate tutorial aims to:
 - Date: 20 January 2023
 - Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
 - Registrations closed [view invite](https://www.eventbrite.co.uk/e/intermediate-r-for-hta-modelling-tickets-400785168227)
+
 
 # 20 September 2022
 Participants will be given hands-on experience in building in undertaking a PSA (probabilistic sensitivity analysis) on a basic sick-sicker decision analytic model for HTA. 

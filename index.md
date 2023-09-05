@@ -17,9 +17,9 @@ intro:
 feature_row_left:
  - image_path: assets/images/Registrations open - 25 Sept 2023 training .png
    title: "Introduction to R-HTA Modelling - 25 September 2023"
-   excerpt: "This half-day interactive tutorial will be held on Monday, 25 September 2023. Health analysts from low/middle income countries will be trained on how to use R language when building HTA models. No prior experience using R programming is required for this tutorial as we'll teach you the basics. undertanding of health econmic concepts is an essential prerequisite though as we will not be explainign these in detail."
-   url: "https://github.com/R-HTA-in-LMICs/Introduction-to-R-for-HTA-2023"
-   btn_label: "View resources"
+   excerpt: "This half-day interactive tutorial will be held on Monday, 25 September 2023. Health analysts from low/middle income countries will be trained on how to use R language when building HTA models. No prior experience using R programming is required for this tutorial as we'll teach you the basics. undertanding of health econmic concepts is an essential prerequisite though as we will not be explaining these in detail."
+   url: "https://www.eventbrite.com/e/introduction-to-r-for-hta-modelling-tickets-713568642017"
+   btn_label: "Register here"
    btn_class: "btn--primary"
 
 feature_row_left_2:

@@ -26,7 +26,7 @@ This tutorial will:
 ## Schedule and tickets
 - Date: 25 September 2023
 - Time: 13:00 CAT - [timezone converter](https://dateful.com/time-zone-converter)
-- Registrations open [view invite](https://www.eventbrite.com/e/introduction-to-r-for-hta-modelling-tickets-713568642017?aff=oddtdtcreator)
+- Registrations closed [view invite](https://www.eventbrite.com/e/introduction-to-r-for-hta-modelling-tickets-713568642017?aff=oddtdtcreator)
 
 
 # 20 January 2023
